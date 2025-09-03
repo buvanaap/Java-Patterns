@@ -27,15 +27,27 @@ Examples of patterns:
 ```
 ```
 1
-2 3
-4 5 6
-7 8 9 10
+1*3
+1*3*5
+1*3*5*7
+1*3*5*7*9
+1*3*5*7*9*11
+1*3*5*7*9*11*13
 ```
 ```
-A
-B C
-D E F
-G H I J
+ABCDEFG
+ ABCDEF
+  ABCDE
+   ABCD
+    ABC
+     AB
+      A
+     AB
+    ABC
+   ABCD
+  ABCDE
+ ABCDEF
+ABCDEFG
 ```
 
 ## 🚀 Getting Started
