@@ -1,8 +1,8 @@
-#🎯 Java Pattern Questions Repository
+# 🎯 Java Pattern Questions Repository
 
 This repository contains `70+` Java pattern problems with solutions.
 
-##📌 Why Pattern Questions?
+## 📌 Why Pattern Questions?
 
 **Pattern questions are not just about printing stars — they help you:**
 
@@ -37,7 +37,7 @@ D E F
 G H I J
 ```
 
-##🚀 Getting Started
+## 🚀 Getting Started
 
 Clone the repository
 ```
@@ -54,10 +54,10 @@ Run any .java file to see the pattern output.
 2.Students preparing for interviews
 3.Anyone wanting to sharpen problem-solving skills
 
-🤝 Contributions
+### 🤝 Contributions
 
 Feel free to open issues or contribute new patterns!
 
-🔗 Connect
+### 🔗 Connect
 
 If you find this helpful, do ⭐ the repo and share it with others.
