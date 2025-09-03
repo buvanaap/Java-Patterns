@@ -14,9 +14,9 @@ This repository contains `70+` Java pattern problems with solutions.
  
 **📂 What’s Inside?**
 
-✅ 70+ Java pattern programs
-✅ Clear, beginner-friendly solutions
-✅ Covers basic to slightly advanced patterns
+✅ 70+ Java pattern programs  
+✅ Clear, beginner-friendly solutions  
+✅ Covers basic to slightly advanced patterns  
 
 Examples of patterns:
 ```
