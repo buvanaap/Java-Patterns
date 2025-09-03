@@ -6,13 +6,12 @@ This repository contains `70+` Java pattern problems with solutions.
 
 **Pattern questions are not just about printing stars — they help you:**
 
-🔹 Strengthen your understanding of loops and conditionals <br>  
-🔹 Improve logical thinking and problem-solving skills <br>  
-🔹 Build confidence before moving on to Data Structures & Algorithms <br>  
+🔹 Strengthen your understanding of loops and conditionals  
+🔹 Improve logical thinking and problem-solving skills  
+🔹 Build confidence before moving on to Data Structures & Algorithms  
 🔹 Prepare for coding interviews (where logical thinking matters most)  
  
-
-
+ 
 **📂 What’s Inside?**
 
 ✅ 70+ Java pattern programs
