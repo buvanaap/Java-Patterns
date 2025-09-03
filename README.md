@@ -63,9 +63,10 @@ Run any .java file to see the pattern output.
 
 **👩‍💻 Who is this for?**
 
-1.Beginners starting with Java
-2.Students preparing for interviews
-3.Anyone wanting to sharpen problem-solving skills
+1. Beginners starting with Java  
+2. Students preparing for interviews  
+3. Anyone wanting to sharpen problem-solving skills  
+
 
 ### 🤝 Contributions
 
